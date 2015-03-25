@@ -43,7 +43,7 @@ CardGroup &CardGroup::operator=(CardGroup &cg)
 	this->count = cg.count;
 	return *this;
 }
-//重置牌组
+//重置牌型
 void CardGroup::Clear(void)
 {
 	group.clear();

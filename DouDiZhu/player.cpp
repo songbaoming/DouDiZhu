@@ -695,7 +695,7 @@ void Player::ThreeplusAndAirplane()
 	}
 }
 
-//删除所有未知类型的牌组
+//删除所有未知类型的牌型
 void Player::DeleteUnkown(void)
 {
 	auto b = analyse.begin();

@@ -16,7 +16,7 @@ enum Type{
 	FourSeq,//四带二（两张或两对）
 	Bomb,//炸弹、王炸
 };
-//牌组结构
+//牌型结构
 class CardGroup{
 	friend class Player;
 	friend class Game;
@@ -33,7 +33,7 @@ public:
 private:
 	std::map<int, int> group;//3-17权值集合
 	std::set<int> cards;//0-53组成的集合，主要用于方便画面显示
-	Type type;//牌组类型（单牌、对子等等）
+	Type type;//牌型类型（单牌、对子等等）
 	int value;//权值
 	int count;//此结构元素数量（牌数量）
 };
