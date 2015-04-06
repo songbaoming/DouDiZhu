@@ -82,9 +82,6 @@
     <Image Include="res\pass.bmp">
       <Filter>资源文件</Filter>
     </Image>
-    <Image Include="res\result.bmp">
-      <Filter>资源文件</Filter>
-    </Image>
     <Image Include="res\score1.bmp">
       <Filter>资源文件</Filter>
     </Image>

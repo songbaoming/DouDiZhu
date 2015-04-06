@@ -103,7 +103,6 @@
     <Image Include="res\no.bmp" />
     <Image Include="res\nodiscard.bmp" />
     <Image Include="res\pass.bmp" />
-    <Image Include="res\result.bmp" />
     <Image Include="res\score1.bmp" />
     <Image Include="res\score2.bmp" />
     <Image Include="res\score3.bmp" />
