@@ -90,3 +90,6 @@
         1.拆三顺数量大、权值更大的
 ```
 `拆牌后一定要清空牌型集合`
+
+# License
+[MIT](https://github.com/songbaoming/IncBuildVer/blob/master/LICENSE)
