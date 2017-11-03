@@ -92,4 +92,4 @@
 `拆牌后一定要清空牌型集合`
 
 # License
-[MIT](https://github.com/songbaoming/IncBuildVer/blob/master/LICENSE)
+[MIT](https://github.com/songbaoming/DouDiZhu/blob/master/LICENSE)
