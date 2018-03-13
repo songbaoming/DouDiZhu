@@ -392,8 +392,6 @@ void Player::DivideIntoGroups(void)
 			}
 			if (n == 5){//满足组成单顺的数量
 				auto p = b;
-				if (begin - 1 != b->first)
-					--p;
 				int first = p->first - 4;//单顺的第一个
 				CardGroup *c = new CardGroup(SingleSeq, p->first);
 				for (first; first <= p->first; ++first){
